@@ -24,7 +24,7 @@ This project is a client-server application for group chats and file transfers. 
 
 1. Run the server script:
     ```bash
-    python server.py
+    python -u server.py
     ```
 
 2. Enter the dedicated port number when prompted.
@@ -33,7 +33,7 @@ This project is a client-server application for group chats and file transfers. 
 
 1. Run the client script:
     ```bash
-    python client.py
+    python -u client.py
     ```
 
 2. In the GUI, enter the server IP, port, and your username.
